@@ -20,3 +20,5 @@
 ![9  Confirm Hapus Data](https://user-images.githubusercontent.com/86543284/123535751-09668000-d750-11eb-8673-52f9871e5312.PNG)
 10. Hapus Data Berhasil
 ![10  Hapus Data Berhasil](https://user-images.githubusercontent.com/86543284/123535754-0f5c6100-d750-11eb-96db-82bdbfd4c748.PNG)
+11. Tampilan Data Yang Sudah Berhasil Dihapus
+![11  Tampilan Data Yang Sudah Berhasil Dihapus](https://user-images.githubusercontent.com/86543284/123547983-279ea100-d78d-11eb-8575-e5187b579801.PNG)
