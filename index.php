@@ -117,7 +117,7 @@ if(isset($_POST['tambah_data']))
 
 <body>
   <div class="container">
-  <h1 class="text-center">Data Barang</h1>
+  <h1 class="text-center" style="margin-top: 50px; font-family: latha">Data Barang</h1>
 
 <!--Awal Card Form-->
   <div class="card mt-20">
